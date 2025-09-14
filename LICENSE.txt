@@ -1,0 +1,12 @@
+AI Visibility Retrieval Dynamics: Tiered Citation Platforms, Decay, and the Governance Gap in LLM Discoverability
+Copyright © 2025 Paul Sheals and Tim de Rosen, The AIVO Standard™
+
+This work is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+Full license: https://creativecommons.org/licenses/by/4.0/
+
+Preferred citation:
+Sheals, P., & de Rosen, T. (2025). AI Visibility Retrieval Dynamics (v1.0). The AIVO Standard. https://doi.org/10.5281/zenodo.17117353
+
+Trademarks:
+AIVO Standard™ and PSOS™ are trademarks of The AIVO Standard.
+Contact: tim@aivostandard.org
